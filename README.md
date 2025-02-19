@@ -35,6 +35,10 @@ This project aims to build a comprehensive Power BI dashboard for analyzing sale
 
 ## Key Calculations in DAX
 
+## Conclusion
+
+## Recommendation
+
 ## Skills Demonstrated
 ``Power BI Visualization`` ``Data Cleaning & Preparation`` ``Data Modeling & Relationship Building``
 ``DAX Calculations`` ``Sales & Profit Analysis``
