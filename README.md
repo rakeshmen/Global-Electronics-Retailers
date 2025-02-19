@@ -39,4 +39,4 @@ This project aims to build a comprehensive Power BI dashboard for analyzing sale
 ``Power BI Visualization`` ``Data Cleaning & Preparation`` ``Data Modeling & Relationship Building``
 ``DAX Calculations`` ``Sales & Profit Analysis``
 
-Stay Tuned, [Rakesh Men](https://www.linkedin.com/in/rakeshmen/)
+### Stay Tuned, [Rakesh Men | LinkedIn](https://www.linkedin.com/in/rakeshmen/)
